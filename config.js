@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Guy',
+  name: 'dude',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to Sleep! pls',
 
   // Layout
   bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
@@ -135,12 +135,12 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'github',
       id: '1',
       links: [
         {
           name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          link: 'https://old.reddit.com/',
         },
         {
           name: 'Classic',
@@ -205,7 +205,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'github',
+      icon: 'graduation-cap',
       id: '2',
       links: [
         {
