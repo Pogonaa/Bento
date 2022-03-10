@@ -139,7 +139,7 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
+          name: 'Reddit',
           link: 'https://old.reddit.com/',
         },
         {
